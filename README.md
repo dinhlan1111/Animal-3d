@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Animal 3D App Using Yolo v3
 
 # Screen App
@@ -64,5 +63,4 @@ src="https://live.staticflickr.com/65535/49926007951_2afa5a5517.jpg" width="155"
 
 ### APK file: https://drive.google.com/open?id=1fgjVTj0pABzPL65CkKwkyjk7C-NLDUp2
 =======
-# Animal 3d Using Yolo v3
->>>>>>> dbb067c04ec6d20d96bed04a792d3f9e7fbe4a37
+
